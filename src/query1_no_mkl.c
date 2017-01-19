@@ -35,9 +35,6 @@
 #include <glib.h>
 #include <stdlib.h>
 #include <string.h>
-#include "mkl_spblas.h"
-#include "mkl_types.h"
-#include "mkl.h"
 #include "olap_search.h"
 #include "timer.h"
 //sleep
