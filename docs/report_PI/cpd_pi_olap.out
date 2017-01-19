@@ -1,0 +1,22 @@
+\BOOKMARK [1][-]{section.1}{Introduction}{}% 1
+\BOOKMARK [1][-]{section.2}{Linear Algebra Strategy}{}% 2
+\BOOKMARK [2][-]{subsection.2.1}{Towards a linear algebra semantics for SQL}{section.2}% 3
+\BOOKMARK [3][-]{subsubsection.2.1.1}{Encoding data in matrix format}{subsection.2.1}% 4
+\BOOKMARK [2][-]{subsection.2.2}{Projection Operation}{section.2}% 5
+\BOOKMARK [2][-]{subsection.2.3}{Aggregation Operation}{section.2}% 6
+\BOOKMARK [2][-]{subsection.2.4}{Selection Operation}{section.2}% 7
+\BOOKMARK [2][-]{subsection.2.5}{Encoding data in Sparse Matrix Format}{section.2}% 8
+\BOOKMARK [2][-]{subsection.2.6}{Incremental construction}{section.2}% 9
+\BOOKMARK [1][-]{section.3}{Sequential Experimentation}{}% 10
+\BOOKMARK [2][-]{subsection.3.1}{Tuning the relational algebra engine}{section.3}% 11
+\BOOKMARK [2][-]{subsection.3.2}{Tuning sparse CSC and CSR methods to assist data level parallelism}{section.3}% 12
+\BOOKMARK [2][-]{subsection.3.3}{Tuning RA and LA approaches}{section.3}% 13
+\BOOKMARK [2][-]{subsection.3.4}{Experimental results analysis}{section.3}% 14
+\BOOKMARK [1][-]{section.4}{Parallelisation}{}% 15
+\BOOKMARK [2][-]{subsection.4.1}{Sequential Profiling}{section.4}% 16
+\BOOKMARK [2][-]{subsection.4.2}{Parallel Experimental Results and Analysis}{section.4}% 17
+\BOOKMARK [2][-]{subsection.4.3}{Further Selection Algorithm Optimisation}{section.4}% 18
+\BOOKMARK [2][-]{subsection.4.4}{Final Parallel Experimental Results}{section.4}% 19
+\BOOKMARK [1][-]{section.5}{Conclusion}{}% 20
+\BOOKMARK [1][-]{section.6}{Future Work}{}% 21
+\BOOKMARK [1][-]{section.7}{Acknowledgements}{}% 22
